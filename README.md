@@ -10,3 +10,6 @@ Ruah's Logo Splash is a macOS boot screen-like Plymouth theme that only displays
 3. To set this theme to default, open a terminal and type ``sudo update-alternatives --config default.plymouth`` and choose the number where Ruah's Logo Splash was.
 4. After setting the theme to default, type ``sudo update-initramfs -u`` 
 5. Good to go!
+
+----------
+If there are other plymouth themes that are also like this, kindly inform me.
