@@ -2,7 +2,7 @@
 This theme may be buggy as this is still in development.
 
 # About Ruah's Logo Splash
-Ruah's Logo Splash is a macOS boot screen-like Plymouth theme that only displays the logo (of a Linux Distro) on the boot. There are Dark and Light mode Variants of the Logo Splash.
+Ruah's Logo Splash is a Plymouth theme that only displays the logo (of a Linux Distro) on the boot. There are Dark and Light mode Variants of the Logo Splash.
 
 # How to install Ruah's Logo Splash?
 1. Clone this repository ``https://github.com/RuahWonders/Ruah-s-Logo-Splash.git``
